@@ -1,2 +1,1 @@
-# landing-page
-My personal website
+# My Personal Website
